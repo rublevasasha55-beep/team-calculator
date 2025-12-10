@@ -5,4 +5,12 @@ def add(a, b):
     """Функция сложения двух чисел."""
     return a + b
 
-# TODO: Добавить функции subtract, multiply, divide
+def subtract(a, b):
+    """Функция вычитания двух чисел."""
+    return a - b
+
+def multiply(a, b):
+    """Функция умножения двух чисел."""
+    return a * b
+
+# TODO: Добавить функцию divide
