@@ -1,4 +1,8 @@
 # Модуль с математическими операциями
 # Каждый участник реализует свою функцию
 
-# TODO: Добавить функции add, subtract, multiply, divide
+def add(a, b):
+    """Функция сложения двух чисел."""
+    return a + b
+
+# TODO: Добавить функции subtract, multiply, divide
